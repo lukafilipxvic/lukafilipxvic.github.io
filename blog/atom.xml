@@ -7,6 +7,7 @@
     <link rel="alternate" href="https://lukafilipovic.com/blog"/>
     <subtitle>Luka Filipović Blog</subtitle>
     <icon>https://lukafilipovic.com/img/favicon-32x32.png</icon>
+    <rights>Copyright © 2024 Luka Filipović</rights>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://lukafilipovic.com/blog/welcome</id>
