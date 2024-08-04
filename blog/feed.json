@@ -5,6 +5,39 @@
     "description": "Luka Filipović Blog",
     "items": [
         {
+            "id": "https://lukafilipovic.com/blog/welcome",
+            "content_html": "<p><a href=\"https://docusaurus.io/docs/blog\" target=\"_blank\" rel=\"noopener noreferrer\">Docusaurus blogging features</a> are powered by the <a href=\"https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog\" target=\"_blank\" rel=\"noopener noreferrer\">blog plugin</a>.</p>\n<p>Simply add Markdown files (or folders) to the <code>blog</code> directory.</p>\n<p>Regular blog authors can be added to <code>authors.yml</code>.</p>\n<p>The blog post date can be extracted from filenames, such as:</p>\n<ul>\n<li><code>2019-05-30-welcome.md</code></li>\n<li><code>2019-05-30-welcome/index.md</code></li>\n</ul>\n<p>A blog post folder can be convenient to co-locate blog post images:</p>\n<p><img decoding=\"async\" loading=\"lazy\" alt=\"Docusaurus Plushie\" src=\"https://lukafilipovic.com/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg\" width=\"1500\" height=\"500\" class=\"img_ev3q\"></p>\n<p>The blog supports tags as well!</p>\n<p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>",
+            "url": "https://lukafilipovic.com/blog/welcome",
+            "title": "Welcome",
+            "summary": "Docusaurus blogging features are powered by the blog plugin.",
+            "date_modified": "2024-08-26T00:00:00.000Z",
+            "author": {
+                "name": "Luka Filipović",
+                "url": "https://github.com/lukafilipxvic"
+            },
+            "tags": [
+                "facebook",
+                "hello",
+                "docusaurus"
+            ]
+        },
+        {
+            "id": "https://lukafilipovic.com/blog/pyzam",
+            "content_html": "\n<p>I love listening to mixtapes. You get to find new songs that would be perfect for your playlist.</p>\n<p>A problem that I had was not being able to</p>\n<h2 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"who-is-pyzam-for\"><strong>Who is Pyzam for?</strong><a href=\"https://lukafilipovic.com/blog/pyzam#who-is-pyzam-for\" class=\"hash-link\" aria-label=\"Direct link to who-is-pyzam-for\" title=\"Direct link to who-is-pyzam-for\">​</a></h2>\n<p>For DJs looking to integrate Shazam their set. For Daft Punk fans looking to find new samples.</p>\n<h2 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"secrets-discovered\"><strong>Secrets discovered</strong><a href=\"https://lukafilipovic.com/blog/pyzam#secrets-discovered\" class=\"hash-link\" aria-label=\"Direct link to secrets-discovered\" title=\"Direct link to secrets-discovered\">​</a></h2>\n<p>Shazam takes up to 12 seconds of audio at max.\nYou can make Shazam requests of up to 20 times per minute.</p>\n<p>If you have ffmpeg installed, try pyzam now:</p>\n<div class=\"codeBlockContainer_Ckt0 theme-code-block\" style=\"--prism-color:#393A34;--prism-background-color:#f6f8fa\"><div class=\"codeBlockContent_biex\"><pre tabindex=\"0\" class=\"prism-code language-text codeBlock_bY9V thin-scrollbar\" style=\"color:#393A34;background-color:#f6f8fa\"><code class=\"codeBlockLines_e6Vv\"><span class=\"token-line\" style=\"color:#393A34\"><span class=\"token plain\">pip install pyzam</span><br></span></code></pre><div class=\"buttonGroup__atx\"><button type=\"button\" aria-label=\"Copy code to clipboard\" title=\"Copy\" class=\"clean-btn\"><span class=\"copyButtonIcons_eSgA\" aria-hidden=\"true\"><svg viewBox=\"0 0 24 24\" class=\"copyButtonIcon_y97N\"><path fill=\"currentColor\" d=\"M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z\"></path></svg><svg viewBox=\"0 0 24 24\" class=\"copyButtonSuccessIcon_LjdS\"><path fill=\"currentColor\" d=\"M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z\"></path></svg></span></button></div></div></div>",
+            "url": "https://lukafilipovic.com/blog/pyzam",
+            "title": "I built a Shazam for Mixtapes",
+            "summary": "I love listening to mixtapes. You get to find new songs that would be perfect for your playlist.",
+            "date_modified": "2024-04-12T00:00:00.000Z",
+            "author": {
+                "name": "Luka Filipović",
+                "url": "https://github.com/lukafilipxvic"
+            },
+            "tags": [
+                "projects",
+                "python"
+            ]
+        },
+        {
             "id": "https://lukafilipovic.com/blog/hello-world",
             "content_html": "\n<p>The following two words are the universal standard for teaching newbies programming languages:</p>\n<div class=\"codeBlockContainer_Ckt0 theme-code-block\" style=\"--prism-color:#393A34;--prism-background-color:#f6f8fa\"><div class=\"codeBlockContent_biex\"><pre tabindex=\"0\" class=\"prism-code language-text codeBlock_bY9V thin-scrollbar\" style=\"color:#393A34;background-color:#f6f8fa\"><code class=\"codeBlockLines_e6Vv\"><span class=\"token-line\" style=\"color:#393A34\"><span class=\"token plain\">print('Hello, World!')</span><br></span></code></pre><div class=\"buttonGroup__atx\"><button type=\"button\" aria-label=\"Copy code to clipboard\" title=\"Copy\" class=\"clean-btn\"><span class=\"copyButtonIcons_eSgA\" aria-hidden=\"true\"><svg viewBox=\"0 0 24 24\" class=\"copyButtonIcon_y97N\"><path fill=\"currentColor\" d=\"M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z\"></path></svg><svg viewBox=\"0 0 24 24\" class=\"copyButtonSuccessIcon_LjdS\"><path fill=\"currentColor\" d=\"M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z\"></path></svg></span></button></div></div></div>\n<p>Why is printing <code>Hello, World!</code> the first program every programmer is taught?</p>\n<p>It is the easiest thing you could do, but it barely aligns with anyone's original reason of wanting to learn to code.</p>\n<p>So why don't we make it more personal and aimed straight to the heart.</p>\n<p>People have different reasons for learning to program. It could be to automate the boring stuff, to generate new insights from giga-pools of data,\nor to create an app for your sports team.</p>\n<p>Personally, just got tired of waiting for someone else to build things I need.</p>\n<p>That's why I want continue to create, learn and listen to people's problems and find a solution.</p>\n<div class=\"codeBlockContainer_Ckt0 theme-code-block\" style=\"--prism-color:#393A34;--prism-background-color:#f6f8fa\"><div class=\"codeBlockContent_biex\"><pre tabindex=\"0\" class=\"prism-code language-text codeBlock_bY9V thin-scrollbar\" style=\"color:#393A34;background-color:#f6f8fa\"><code class=\"codeBlockLines_e6Vv\"><span class=\"token-line\" style=\"color:#393A34\"><span class=\"token plain\">print('Just Do It.')</span><br></span></code></pre><div class=\"buttonGroup__atx\"><button type=\"button\" aria-label=\"Copy code to clipboard\" title=\"Copy\" class=\"clean-btn\"><span class=\"copyButtonIcons_eSgA\" aria-hidden=\"true\"><svg viewBox=\"0 0 24 24\" class=\"copyButtonIcon_y97N\"><path fill=\"currentColor\" d=\"M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z\"></path></svg><svg viewBox=\"0 0 24 24\" class=\"copyButtonSuccessIcon_LjdS\"><path fill=\"currentColor\" d=\"M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z\"></path></svg></span></button></div></div></div>",
             "url": "https://lukafilipovic.com/blog/hello-world",
