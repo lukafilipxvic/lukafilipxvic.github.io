@@ -33,6 +33,19 @@
             <category>docusaurus</category>
         </item>
         <item>
+            <title><![CDATA[Analysing Historical UEFA Coefficients]]></title>
+            <link>https://lukafilipovic.com/blog/analysing-historical-uefa-coefficients</link>
+            <guid>https://lukafilipovic.com/blog/analysing-historical-uefa-coefficients</guid>
+            <pubDate>Tue, 20 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[The performance of Europeam countries in top-flight football competitions hasn't really been looked at in detail to identify]]></description>
+            <content:encoded><![CDATA[<p>The performance of Europeam countries in top-flight football competitions hasn't really been looked at in detail to identify
+long-term trends for <em>standout performers</em>, and anormalies for <em>golden-generations</em>.</p>
+<p><iframe width="436" height="245" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0"></iframe>1</p>]]></content:encoded>
+            <author>luka@lukafilipovic.com (Luka Filipović)</author>
+            <category>data analysis</category>
+            <category>football</category>
+        </item>
+        <item>
             <title><![CDATA[I built a Shazam for Mixtapes]]></title>
             <link>https://lukafilipovic.com/blog/pyzam</link>
             <guid>https://lukafilipovic.com/blog/pyzam</guid>
@@ -51,26 +64,6 @@ You can make Shazam requests of up to 20 times per minute.</p>
             <author>luka@lukafilipovic.com (Luka Filipović)</author>
             <category>projects</category>
             <category>python</category>
-        </item>
-        <item>
-            <title><![CDATA[Hello, World?]]></title>
-            <link>https://lukafilipovic.com/blog/hello-world</link>
-            <guid>https://lukafilipovic.com/blog/hello-world</guid>
-            <pubDate>Wed, 10 Apr 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[The following two words are the universal standard for teaching newbies programming languages:]]></description>
-            <content:encoded><![CDATA[
-<p>The following two words are the universal standard for teaching newbies programming languages:</p>
-<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">print('Hello, World!')</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
-<p>Why is printing <code>Hello, World!</code> the first program every programmer is taught?</p>
-<p>It is the easiest thing you could do, but it barely aligns with anyone's original reason of wanting to learn to code.</p>
-<p>So why don't we make it more personal and aimed straight to the heart.</p>
-<p>People have different reasons for learning to program. It could be to automate the boring stuff, to generate new insights from giga-pools of data,
-or to create an app for your sports team.</p>
-<p>Personally, just got tired of waiting for someone else to build things I need.</p>
-<p>That's why I want continue to create, learn and listen to people's problems and find a solution.</p>
-<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">print('Just Do It.')</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>]]></content:encoded>
-            <author>luka@lukafilipovic.com (Luka Filipović)</author>
-            <category>programming</category>
         </item>
     </channel>
 </rss>
