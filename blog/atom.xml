@@ -7,7 +7,7 @@
     <link rel="alternate" href="https://lukafilipovic.com/blog"/>
     <subtitle>Luka Filipović Blog</subtitle>
     <icon>https://lukafilipovic.com/img/favicon-32x32.png</icon>
-    <rights>Copyright © 2024 Luka Filipović</rights>
+    <rights>Copyright © 2025 Luka Filipović</rights>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://lukafilipovic.com/blog/welcome</id>
@@ -29,7 +29,7 @@
         <author>
             <name>Luka Filipović</name>
             <email>luka@lukafilipovic.com</email>
-            <uri>https://github.com/lukafilipxvic</uri>
+            <uri>https://lukafilipovic.com</uri>
         </author>
         <category label="facebook" term="facebook"/>
         <category label="hello" term="hello"/>
@@ -47,7 +47,7 @@ long-term trends for <em>standout performers</em>, and anormalies for <em>golden
         <author>
             <name>Luka Filipović</name>
             <email>luka@lukafilipovic.com</email>
-            <uri>https://github.com/lukafilipxvic</uri>
+            <uri>https://lukafilipovic.com</uri>
         </author>
         <category label="data analysis" term="data analysis"/>
         <category label="football" term="football"/>
@@ -71,7 +71,7 @@ You can make Shazam requests of up to 20 times per minute.</p>
         <author>
             <name>Luka Filipović</name>
             <email>luka@lukafilipovic.com</email>
-            <uri>https://github.com/lukafilipxvic</uri>
+            <uri>https://lukafilipovic.com</uri>
         </author>
         <category label="projects" term="projects"/>
         <category label="python" term="python"/>

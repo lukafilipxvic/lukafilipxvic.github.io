@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1094],{2571:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/data-analysis","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"The personal blog of Luka Filipovi\u0107","blogTitle":"Blog"}')}}]);
